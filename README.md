@@ -3,7 +3,7 @@
 
 On early stages of web and mobile testing I needed to apply the knowledge of the testing theory to determine the direction and strategy for the following stages of testing. 
 
-Here I would like to showcase the application of testing theory I used for testing the webstore [Demoshopping.ru](https://demoshopping.ru/). All documentation is written in Russian language to demonstrate my fluency in using it.
+Here I would like to showcase the application of testing theory I used for testing the webstore [Demoshopping.ru](https://demoshopping.ru/) based on the Requirements (User Story ID) and the Webstore Mockup on Figma. All documentation is written in Russian language to demonstrate my fluency in using it.
 
 1. [Testing methods, types and levels](https://docs.google.com/spreadsheets/d/1KWTDez9xweNvRTERS_mUl4eEs0c1vACXWuRTJvxhgf8/edit?usp=sharing) - Based on the webstore description I determined the testing methods, levels and functional/non-functional types of testing that will be used for this project.
 
