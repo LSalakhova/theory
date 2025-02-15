@@ -7,7 +7,7 @@ Here I would like to showcase the application of testing theory I used for testi
 
 1. [Testing methods, types and levels](https://docs.google.com/spreadsheets/d/1KWTDez9xweNvRTERS_mUl4eEs0c1vACXWuRTJvxhgf8/edit?usp=sharing) - Based on the webstore description I determined the testing methods, levels and functional/non-functional types of testing that will be used for this project.
 
-3. [Analysis of requirements and webstore mockup](https://docs.google.com/spreadsheets/d/1Sh8iG60d5kVHnhzEE__uBk8ARU2YSYHTjRcyFaxdjbo/edit?usp=sharing) - Analysis of the Requirements provided by client and Webstore Mockup to identify any inconsistencies and improve the quality and clarity of the Requirements. The following steps were performed during the analysis:
+3. [Analysis of requirements and webstore mockup](https://docs.google.com/spreadsheets/d/1Sh8iG60d5kVHnhzEE__uBk8ARU2YSYHTjRcyFaxdjbo/edit?usp=sharing) - Analysis of the Requirements and Webstore Mockup to identify any inconsistencies and improve the quality and clarity of the Requirements. The following steps were performed during the analysis:
 
    * Requirements identification: collecting and brainstorming of all available requirements, including functional, non-functional, and business requirements.
    * Quality analysis: checking the requirements for completeness, correctness, monosemanticism and consistency.
