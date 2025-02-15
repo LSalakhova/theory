@@ -1,10 +1,15 @@
 
-# Теория тестирования 
+# Testing Theory
 
-1. [Определение методов, типов и уровней тестирования для приложения "Интернет-магазин"](https://docs.google.com/spreadsheets/d/1KWTDez9xweNvRTERS_mUl4eEs0c1vACXWuRTJvxhgf8/edit?usp=sharing)
+On early stages of web or mobile testing we need to apply the knowledge of the testing theory to determine the direction and strategy for the following stages of testing. 
 
-   Основываясь на описании приложения "Интернет-магазин", были определены методы тестирования, которые будут применяться для данного приложения, уровни тестирования, на которых оно может проводиться, а также функциональные и нефункциональные типы тестирования которые могут быть использованы.
+Here I would like to showcase the application of testing theory I used for testing the webstore [Demoshopping.ru](https://demoshopping.ru/). All documentation is written in Russian language to demonstrate my fluency in using it.
 
-3. [Анализ требований и макета приложения "Интернет-магазин"](https://docs.google.com/spreadsheets/d/1Sh8iG60d5kVHnhzEE__uBk8ARU2YSYHTjRcyFaxdjbo/edit?usp=sharing)
+1. [Testing methods, types and levels](https://docs.google.com/spreadsheets/d/1KWTDez9xweNvRTERS_mUl4eEs0c1vACXWuRTJvxhgf8/edit?usp=sharing) - Based on the webstore description I determined the testing methods, levels and functional/non-functional types of testing that will be used for this project.
 
-    В рамках домашнего задания были проанализированы доступные требования для приложения "Интернет-магазин" и найдены несоответствия качественных характеристик требований. 
+3. [Analysis of requirements and webstore mockup](https://docs.google.com/spreadsheets/d/1Sh8iG60d5kVHnhzEE__uBk8ARU2YSYHTjRcyFaxdjbo/edit?usp=sharing) - Analysis of the Requirements provided by client and Webstore Mockup to identify inconsistencies and improve the quality and clarity of the Requirements. The following steps were performed during the analysis:
+
+   * Requirements identification: collecting and brainstorming of all available requirements, including functional, non-functional, and business requirements.
+   * Quality analysis: checking the requirements for completeness, correctness, monosemanticism and consistency.
+   * Identification of any inconsistencies: finding and documenting any shortcomings, such as ambiguity, contradictory requirements, or incomplete feature descriptions.
+   * Entering information into a table: creating a table that lists the inconsistencies found, their description, and recommendations for correction.
